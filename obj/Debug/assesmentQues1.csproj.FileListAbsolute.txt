@@ -1,0 +1,8 @@
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\bin\Debug\assesmentQues1.exe.config
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\bin\Debug\assesmentQues1.exe
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\bin\Debug\assesmentQues1.pdb
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\obj\Debug\assesmentQues1.csproj.AssemblyReference.cache
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\obj\Debug\assesmentQues1.csproj.SuggestedBindingRedirects.cache
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\obj\Debug\assesmentQues1.csproj.CoreCompileInputs.cache
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\obj\Debug\assesmentQues1.exe
+E:\Simplilearn course\Day3\assesmentQues1\assesmentQues1\obj\Debug\assesmentQues1.pdb
